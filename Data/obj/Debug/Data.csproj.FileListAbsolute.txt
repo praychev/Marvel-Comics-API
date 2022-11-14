@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\bin\Debug\Data.exe.config
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\bin\Debug\Data.exe
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\bin\Debug\Data.pdb
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\obj\Debug\Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\obj\Debug\Data.exe
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\obj\Debug\Data.pdb
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\obj\Debug\Data.Migrations.InitialMigration.resources
+C:\Users\hp\source\repos\MarvelComicsAPI\Data\obj\Debug\Data.csproj.GenerateResource.cache

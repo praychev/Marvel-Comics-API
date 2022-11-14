@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="fa568b87-1665-4217-b921-131348047922" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57733/Series.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Series.xsd" MetadataType="Schema" ID="f45fb2e2-21cf-43eb-94fd-d900a46d23b9" SourceId="1" SourceUrl="http://localhost:57733/Series.svc?xsd=xsd0" />
+    <MetadataFile FileName="Series1.xsd" MetadataType="Schema" ID="dc69c13d-6efa-4710-bcce-65ef3dcb481e" SourceId="1" SourceUrl="http://localhost:57733/Series.svc?xsd=xsd1" />
+    <MetadataFile FileName="Series2.xsd" MetadataType="Schema" ID="defae267-339e-4078-b470-0ed6253b5785" SourceId="1" SourceUrl="http://localhost:57733/Series.svc?xsd=xsd2" />
+    <MetadataFile FileName="Series.wsdl" MetadataType="Wsdl" ID="52e817f2-79d9-4db8-81ea-86340d3111f7" SourceId="1" SourceUrl="http://localhost:57733/Series.svc?wsdl" />
+    <MetadataFile FileName="Series.disco" MetadataType="Disco" ID="dc057712-8d43-40d3-862d-19489ad8604f" SourceId="1" SourceUrl="http://localhost:57733/Series.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

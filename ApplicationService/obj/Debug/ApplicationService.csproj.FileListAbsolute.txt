@@ -1,0 +1,40 @@
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\ApplicationService.dll.config
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\ApplicationService.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\ApplicationService.pdb
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\Data.exe
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\Repository.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\Data.pdb
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\Data.exe.config
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\Repository.pdb
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\Repository.dll.config
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\obj\Debug\ApplicationService.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\obj\Debug\ApplicationService.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\ApplicationService\obj\Debug\ApplicationService.pdb
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\ApplicationService.dll.config
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\ApplicationService.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\ApplicationService.pdb
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\Data.exe
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\EntityFramework.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\EntityFramework.SqlServer.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\Newtonsoft.Json.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\Repository.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\Data.pdb
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\Data.exe.config
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\Repository.pdb
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\Repository.dll.config
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\EntityFramework.xml
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\EntityFramework.SqlServer.xml
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\bin\Debug\Newtonsoft.Json.xml
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\obj\Debug\ApplicationService.csproj.AssemblyReference.cache
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\obj\Debug\ApplicationService.csproj.CopyComplete
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\obj\Debug\ApplicationService.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\ApplicationService\obj\Debug\ApplicationService.pdb

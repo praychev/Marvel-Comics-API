@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="Comics" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:57733/Comics.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:57733/Comics.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:57733/Comics.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/ApplicationService.DTOs" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IComics_GetComics_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetComics" />
+  </wsdl:message>
+  <wsdl:message name="IComics_GetComics_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetComicsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IComics_PostComics_InputMessage">
+    <wsdl:part name="parameters" element="tns:PostComics" />
+  </wsdl:message>
+  <wsdl:message name="IComics_PostComics_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PostComicsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IComics_PutComics_InputMessage">
+    <wsdl:part name="parameters" element="tns:PutComics" />
+  </wsdl:message>
+  <wsdl:message name="IComics_PutComics_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PutComicsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IComics_DeleteComics_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteComics" />
+  </wsdl:message>
+  <wsdl:message name="IComics_DeleteComics_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteComicsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IComics_Message_InputMessage">
+    <wsdl:part name="parameters" element="tns:Message" />
+  </wsdl:message>
+  <wsdl:message name="IComics_Message_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MessageResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IComics">
+    <wsdl:operation name="GetComics">
+      <wsdl:input wsaw:Action="http://tempuri.org/IComics/GetComics" message="tns:IComics_GetComics_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IComics/GetComicsResponse" message="tns:IComics_GetComics_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PostComics">
+      <wsdl:input wsaw:Action="http://tempuri.org/IComics/PostComics" message="tns:IComics_PostComics_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IComics/PostComicsResponse" message="tns:IComics_PostComics_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PutComics">
+      <wsdl:input wsaw:Action="http://tempuri.org/IComics/PutComics" message="tns:IComics_PutComics_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IComics/PutComicsResponse" message="tns:IComics_PutComics_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteComics">
+      <wsdl:input wsaw:Action="http://tempuri.org/IComics/DeleteComics" message="tns:IComics_DeleteComics_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IComics/DeleteComicsResponse" message="tns:IComics_DeleteComics_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Message">
+      <wsdl:input wsaw:Action="http://tempuri.org/IComics/Message" message="tns:IComics_Message_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IComics/MessageResponse" message="tns:IComics_Message_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IComics" type="tns:IComics">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetComics">
+      <soap:operation soapAction="http://tempuri.org/IComics/GetComics" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PostComics">
+      <soap:operation soapAction="http://tempuri.org/IComics/PostComics" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PutComics">
+      <soap:operation soapAction="http://tempuri.org/IComics/PutComics" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteComics">
+      <soap:operation soapAction="http://tempuri.org/IComics/DeleteComics" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Message">
+      <soap:operation soapAction="http://tempuri.org/IComics/Message" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Comics">
+    <wsdl:port name="BasicHttpBinding_IComics" binding="tns:BasicHttpBinding_IComics">
+      <soap:address location="http://localhost:57733/Comics.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

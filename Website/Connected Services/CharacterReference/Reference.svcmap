@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="8d9973de-6459-4049-a092-6a387024de6f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57733/Character.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Character.disco" MetadataType="Disco" ID="0bb32412-4ac9-4bb1-846f-5d495e753584" SourceId="1" SourceUrl="http://localhost:57733/Character.svc?disco" />
+    <MetadataFile FileName="Character.xsd" MetadataType="Schema" ID="fe6697d9-3933-4318-b596-f7785e1195b2" SourceId="1" SourceUrl="http://localhost:57733/Character.svc?xsd=xsd1" />
+    <MetadataFile FileName="Character.wsdl" MetadataType="Wsdl" ID="5360d337-1df6-4fcb-8dd4-292f7025fa14" SourceId="1" SourceUrl="http://localhost:57733/Character.svc?wsdl" />
+    <MetadataFile FileName="Character1.xsd" MetadataType="Schema" ID="10856eb0-aa9b-4ea5-9dc5-e01d44bcfef2" SourceId="1" SourceUrl="http://localhost:57733/Character.svc?xsd=xsd0" />
+    <MetadataFile FileName="Character2.xsd" MetadataType="Schema" ID="222a202d-4c18-420b-b8a9-1a2a2774599d" SourceId="1" SourceUrl="http://localhost:57733/Character.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

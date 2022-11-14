@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="3ffff4e6-993d-4ef3-bb0e-e33d3acea42c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57733/Comics.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Comics.xsd" MetadataType="Schema" ID="bfc9f579-16cb-401c-9409-d4fb378a8376" SourceId="1" SourceUrl="http://localhost:57733/Comics.svc?xsd=xsd1" />
+    <MetadataFile FileName="Comics1.xsd" MetadataType="Schema" ID="355343e9-fa64-43d9-9b98-83395c0a83e8" SourceId="1" SourceUrl="http://localhost:57733/Comics.svc?xsd=xsd2" />
+    <MetadataFile FileName="Comics.wsdl" MetadataType="Wsdl" ID="fd73b723-fda5-4350-aa54-87218f9f26be" SourceId="1" SourceUrl="http://localhost:57733/Comics.svc?wsdl" />
+    <MetadataFile FileName="Comics.disco" MetadataType="Disco" ID="168e1cfc-1ca0-4126-a907-ada384551e69" SourceId="1" SourceUrl="http://localhost:57733/Comics.svc?disco" />
+    <MetadataFile FileName="Comics2.xsd" MetadataType="Schema" ID="11cb88e8-c2f6-4fbb-83b9-5017a8eafb8c" SourceId="1" SourceUrl="http://localhost:57733/Comics.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,42 @@
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\WcfService.dll.config
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\WcfService.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\WcfService.pdb
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\ApplicationService.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\EntityFramework.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\Repository.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\Data.exe
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\ApplicationService.pdb
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\ApplicationService.dll.config
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\EntityFramework.xml
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\Repository.pdb
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\Repository.dll.config
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\Data.pdb
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\bin\Data.exe.config
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\obj\Debug\WcfService.csproj.CopyComplete
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\obj\Debug\WcfService.dll
+C:\Users\hp\source\repos\MarvelComicsAPI\WcfService\obj\Debug\WcfService.pdb
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\WcfService.dll.config
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\WcfService.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\WcfService.pdb
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\ApplicationService.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\EntityFramework.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\EntityFramework.SqlServer.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\Repository.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\Data.exe
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\ApplicationService.pdb
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\ApplicationService.dll.config
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\EntityFramework.xml
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\EntityFramework.SqlServer.xml
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\Repository.pdb
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\Repository.dll.config
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\Data.pdb
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\bin\Data.exe.config
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\obj\Debug\WcfService.csproj.CopyComplete
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\obj\Debug\WcfService.dll
+D:\UNI\2курс\sem 3\разпределени  приложения\MarvelComicsAPI\WcfService\obj\Debug\WcfService.pdb
